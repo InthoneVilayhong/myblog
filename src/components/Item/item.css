@@ -1,0 +1,8 @@
+.item {
+    /* border: yellow 2px solid; */
+    height: 406px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    background-color: white;
+}
