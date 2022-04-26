@@ -9,7 +9,7 @@ const SideContent = () => {
         <div className="sidecontent">
             <Aboutme />
             <div className="sidepicture">
-                <ItemPicture />
+                <ItemPicture image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IRHnoE52BmlPONwRFqqmW-l6UfI0kcNCGw&usqp=CAU" />
             </div>
             <div className>
                 <ItemDescription
